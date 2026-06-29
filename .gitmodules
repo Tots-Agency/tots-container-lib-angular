@@ -1,0 +1,36 @@
+[submodule "tots-auth"]
+	path = tots-auth
+	url = https://github.com/Tots-Agency/tots-auth-lib-angular.git
+[submodule "tots-cloud-storage"]
+	path = tots-cloud-storage
+	url = https://github.com/Tots-Agency/tots-cloud-storage-lib-angular.git
+[submodule "tots-core"]
+	path = tots-core
+	url = https://github.com/Tots-Agency/tots-core-lib-angular.git
+[submodule "tots-form"]
+	path = tots-form
+	url = https://github.com/Tots-Agency/tots-form-lib-angular.git
+[submodule "tots-layout"]
+	path = tots-layout
+	url = https://github.com/Tots-Agency/tots-layout-lib-angular.git
+[submodule "tots-table"]
+	path = tots-table
+	url = https://github.com/Tots-Agency/tots-table-lib-angular.git
+[submodule "tots-not-found"]
+	path = tots-not-found
+	url = https://github.com/Tots-Agency/tots-not-found-lib-angular.git
+[submodule "tots-loading"]
+	path = tots-loading
+	url = https://github.com/Tots-Agency/tots-loading-lib-angular.git
+[submodule "tots-task"]
+	path = tots-task
+	url = https://github.com/Tots-Agency/tots-task-lib-angular.git
+[submodule "tots-account"]
+	path = tots-account
+	url = https://github.com/Tots-Agency/tots-account-lib-angular.git
+[submodule "tots-templates"]
+	path = tots-templates
+	url = https://github.com/Tots-Agency/tots-templates-lib-angular.git
+[submodule "tots-notification"]
+	path = tots-notification
+	url = https://github.com/Tots-Agency/tots-notification-lib-angular.git
